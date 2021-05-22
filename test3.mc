@@ -4,7 +4,7 @@ switch(ch){
 case'a': 
 ch='b';
 break;
-defalut:
+default:
 break;
  }
 }
